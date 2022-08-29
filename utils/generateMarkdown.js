@@ -13,6 +13,7 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
   ## Current State
   ${data.projectStatus}
+  ## Table of Contents
   <!--ts-->
   * [Description](#description)
   * [Usage](#Usage)
@@ -25,7 +26,6 @@ function generateMarkdown(data) {
   ${data.description}
   ## Usage
   ${data.Usage}
-  ## Table of Contents
   ## Installation
   ${data.installation}
   ## Instructions

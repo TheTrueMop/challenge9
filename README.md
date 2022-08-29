@@ -2,6 +2,7 @@
   
   ## Current State
   Stable
+  ## Table of Contents
   <!--ts-->
   * [Description](#description)
   * [Usage](#Usage)
@@ -14,7 +15,6 @@
   The Program Generates a readme based on a template and user provided input.
   ## Usage
   An easy to use way of generating quick and easy readme's
-  ## Table of Contents
   ## Installation
   clone the project and then run "npm i" in the console. After the install completes you will have the necessary inquirer package needed to run the program.
   ## Instructions
